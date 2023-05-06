@@ -18,9 +18,16 @@ a
     color:rgba(30, 142, 142, 0.996)
 }
 
+
+hr
+{
+    height:1px;
+    
+}
+
 a:visited
 {
-    color:rosybrown;
+    color:rgb(171, 120, 18);
 }
 
 a:hover
@@ -64,12 +71,50 @@ a:hover
     
 
     font-family:'Anek malayalam',sans-serif;
-    font-size: 30px;
+    font-size: 25px;
     font-weight: 100;
 
     margin:-1px;
        
 }
+
+.index
+{
+    text-align:left;
+    color:rgb(255, 255, 255);
+    
+
+    font-family:'Anek malayalam',sans-serif;
+    font-size: 13px;
+    font-weight:200;
+
+    margin:10px;
+
+
+}
+
+
+.index-heading
+{
+    text-align:left;
+    color:rgb(255, 255, 255);
+    
+
+    font-family:'Anek malayalam',sans-serif;
+    font-size: 25px;
+    font-weight:200;
+
+    margin:10px;
+}
+
+.index-content-div
+{
+    margin-left:22px;
+}
+
+
+
+
 
 .preface-division
 {
@@ -86,7 +131,7 @@ a:hover
     color:rgb(0, 188, 250);
     
     font-family:'Anek malayalam',sans-serif;
-    font-size: 22px;
+    font-size: 20px;
     
 }
 
