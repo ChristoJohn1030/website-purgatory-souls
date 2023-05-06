@@ -1,0 +1,33 @@
+body
+{
+    background-color: black;
+    color:white;
+
+    padding:20px;
+}
+
+.get-started
+{
+    text-align:center;
+    color:chartreuse;
+    
+
+    font-family:'Anek malayalam',sans-serif;
+    font-size: 25px;
+    font-weight: 100;
+
+    
+}
+
+.how
+{
+    text-align:Left;
+    color:rgb(0, 238, 255);
+    
+
+    font-family:'Anek malayalam',sans-serif;
+    font-size: 15px;
+    font-weight: 100;
+
+    
+}
