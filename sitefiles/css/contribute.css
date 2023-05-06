@@ -3,6 +3,10 @@ body
     background-color: black;
     color:white;
 
+    border:2px groove royalblue;
+
+    margin:10px;
+
     padding:20px;
 }
 
@@ -29,5 +33,50 @@ body
     font-size: 15px;
     font-weight: 100;
 
+}
+
+.main-paragraf
+{
+    text-align:Left;
+    color:rgb(0, 238, 255);
+    
+
+    font-family:'Anek malayalam',sans-serif;
+    font-size: 15px;
+    font-weight: 100;
+
+}
+
+.find-me
+{
+    border: 2px double rosybrown;
+    text-align:Left;
+    color:rgb(255, 200, 0);
+    
+
+    font-family:'Anek malayalam',sans-serif;
+    font-size: 15px;
+    font-weight: 100;
+
+    padding:15px;
     
 }
+
+a
+{
+    color:aqua;
+
+}
+
+
+
+a:visited
+{
+    color:steelblue;
+   
+}
+a:hover
+{
+    color:burlywood;
+}
+
